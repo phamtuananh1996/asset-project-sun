@@ -1,0 +1,17 @@
+{
+  "name": "asset-project1-sun",
+  "authors": [
+    "phamtuananh760@gmail.com <phamtuananh760@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/phamtuananh1996/asset-project-sun",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

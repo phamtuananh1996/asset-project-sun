@@ -1378,7 +1378,7 @@ div[class*="slider_shadow"]:before, div[class^="header_shadow"] {
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
-	/* float: right; */
+	float: right;
 	font-size: 13px;
 	font-weight: bold;
 }

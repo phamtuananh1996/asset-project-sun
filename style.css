@@ -4824,11 +4824,11 @@ a.carousel-next {
 	float: left;
 }
 .post .post-meta .meta-author a,.post .post-meta .meta-date,.post .post-meta .meta-categories a,.post .post-meta .meta-comment a {
-	color: #2f3239;
+	color: #060607;
 }
 .post .post-meta .meta-author i,.post .post-meta .meta-date i,.post .post-meta .meta-categories i,.post .post-meta .meta-comment i {
 	margin-right: 5px;
-	color: #2f3239;
+	color: #060607;
 }
 .post .post-img {
 	margin-bottom: 20px;

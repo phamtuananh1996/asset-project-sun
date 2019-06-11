@@ -1643,7 +1643,7 @@ div[class*="slider_shadow"]:before, div[class^="header_shadow"] {
 }
 .commentlist li p {
 	margin-bottom: 0;
-	color: #848991;
+	color: #2f3239;
 	font-weight: normal;
 }
 .commentlist li ul {
@@ -2686,7 +2686,7 @@ span.date i,span.comment i {
 	font-size: 12px;
 	font-weight: normal;
 	margin-top: 5px;
-	color: #848991;
+	color: #12151a;
 }
 .form-style p span span.color {
 	color: #b9b7b7;
